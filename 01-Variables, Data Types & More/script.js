@@ -63,4 +63,12 @@ console.log(typeof unDeclairedVariable);
 const id = Symbol('id');
 console.log(typeof id);*/
 
+//Working With Type Conversion.
+
+/*let amount = 2
+// amount = amount.toString();
+ amount = String(amount);
+console.log(typeof amount)*/
+
+// Working With Operations
 
