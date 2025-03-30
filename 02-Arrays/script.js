@@ -42,5 +42,6 @@ arr.shift();
 // reverse() - Reverse an array
 arr.reverse();
 // includes() - Check to see if something is in the array
-x = arr.includes(445);
+arr.includes(445);
+
 console.log(arr);
