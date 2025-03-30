@@ -39,5 +39,7 @@ arr.pop();
 arr.unshift(99);
 // shift() - Remove first value
 arr.shift();
+// reverse() - Reverse an array
+arr.reverse();
 
 console.log(arr);
