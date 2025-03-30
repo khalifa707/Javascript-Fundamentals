@@ -37,5 +37,7 @@ arr.push(100);
 arr.pop();
 // unshift() - Add a value to the beginning of the array
 arr.unshift(99);
+// shift() - Remove first value
+arr.shift();
 
 console.log(arr);
