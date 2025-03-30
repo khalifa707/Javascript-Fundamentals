@@ -68,6 +68,7 @@ console.log(x);
 
 console.log(arr);*/
 
+/*
 let x;
 
 const fruits = ['apple', 'pear', 'orange'];
@@ -111,4 +112,4 @@ const c = 3;
 
 x = Array.of(a, b, c);
 
-console.log(x);
+console.log(x);*/
