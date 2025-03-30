@@ -30,7 +30,7 @@ x = fruits;
 
 console.log(x);*/
 
-const arr = [28, 38, 44, 29, 109];
+/*const arr = [28, 38, 44, 29, 109];
 // push() - Push a value on to the end of the array
 arr.push(100);
 // pop() - Take the last value off
@@ -66,4 +66,4 @@ x = arr.slice(1, 4).reverse().toString().charAt(0);
 
 console.log(x);
 
-console.log(arr);
+console.log(arr);*/
