@@ -33,5 +33,9 @@ console.log(x);*/
 const arr = [28, 38, 44, 29, 109];
 // push() - Push a value on to the end of the array
 arr.push(100);
+// pop() - Take the last value off
+arr.pop();
+// unshift() - Add a value to the beginning of the array
+arr.unshift(99);
 
 console.log(arr);
